@@ -1,2 +1,7 @@
-# patientsintake-home-care
+# PatientsIntake
+
 PatientsIntake is a healthcare marketing and patient acquisition agency helping ABA therapy providers, daycare centers, and rehab facilities grow with lead generation and paid ads.
+
+[PatientsIntake](https://patientsintake.com)
+
+https://patientsintake.com
